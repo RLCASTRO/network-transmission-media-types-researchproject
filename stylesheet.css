@@ -1,0 +1,20 @@
+.w3-card:hover {
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+.w3-row-padding, .w3-row-padding>.w3-half, .w3-row-padding>.w3-third, .w3-row-padding>.w3-twothird, .w3-row-padding>.w3-threequarter, .w3-row-padding>.w3-quarter, .w3-row-padding>.w3-col {
+    padding: 8px;
+}
+.text-caption {
+    font-style: italic;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #ccc;
+}
+.w3-border {
+    border: 60px solid #ffffff!important;
+    font-size: x-large;
+    text-align: justify;
+}
+.align{
+    padding-left: 15%;
+}
